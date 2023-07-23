@@ -1,43 +1,32 @@
-<a href="https://patreon.com/StudioBotMaker"><img src="./3f99316f-2d47-4d04-9fee-00bd8b35f0b0.png"></img></a>
+🤖 SBM Ultra: Discord Bot Building Platform 🚀
 
+**Purpose:**
+**SBM Ultra** is a code-free Discord bot creation platform that aims to **revolutionize the way you build and customize bots** for your Discord servers. With an intuitive interface and a rich set of features, **SBM Ultra empowers users of all levels to create powerful and personalized bots**.
 
-# Studio Bot Maker
-Time to ditch Discord Bot Maker and Bot Studio For Discord - and whatever other app you're using, move on to something modern, something fluid and fast! Are you ready to move on from the old and the ugly to something more lively, something with personality and great fluidity? Just hit [Download](https://github.com/RatWasHere/Studio-Bot-Maker/releases/latest)!
+**Features:**
 
-**✌️ Honorable Mentions - [Phantom Hosting](https://l.linklyhq.com/l/1nohw)**
-<a href="https://l.linklyhq.com/l/1nohw" target="_blank"><img src="https://github-production-user-asset-6210df.s3.amazonaws.com/100881234/242099266-b6439c2d-958b-47bf-b10d-13e78d9fe5cd.png"></a>
+- 🎨 **Visual Bot Editor**: SBM Ultra offers a user-friendly visual bot editor, allowing you to design and customize your bots effortlessly. No coding required! Simply drag and drop components to create your dream bot.
 
+- 📚 **Ready-made Templates**: Get started quickly with a wide range of ready-made bot templates. From moderation bots to music bots and more, these templates provide a solid foundation for your bot, which you can further customize.
 
-## 🐛 No-Code **Free** Discord Bot Maker!
-Skip the hassle of coding!
+- 🚀 **Advanced Modules**: Unlock the full potential of your bots with a selection of advanced modules. Integration with databases, API interactions, custom commands, and more – SBM Ultra equips you with tools to take your bot to the next level.
 
+- 🏪 **Bot Store**: Share your creations with the community and explore an ever-growing library of user-generated bots. The Bot Store fosters collaboration, allowing users to learn from each other and leverage the best ideas to enhance their own bots.
 
-## Sooo... what is Studio Bot Maker?
-Well, first off - it's a free app that creates Discord Bots without you needing to write a single line of code!
+- 🎓 **Interactive Training**: New to Discord bot development? No worries! SBM Ultra provides an interactive training module that guides you through the bot-building process step-by-step. Learn the basics, explore advanced features, and become a bot-making pro in no time.
 
-It has plenty of actions and features making your bot's development fast and easier than ever - with a bold mindset that aims for a polished and smooth application - every neat thing there is out there!
+- 📈 **Bot Analytics**: Monitor and track the performance of your bots in real-time. SBM Ultra provides valuable analytics and insights, enabling you to optimize your bots for maximum efficiency and effectiveness.
 
-### What does it have to offer, why would I pick this over a random Discord Bot?
-🙃 Say less, here's a few reasons:
-- One size doesn't fit all! You can't create a truly "universal" discord bot - every community & user has different needs and biases - you might like a bot with a few, but advanced commands - or, you might like a bot with plenty of features but not as advanced - choices are endless how you wish your bot be, as Studio Bot Maker provides all that flexibility easily!
-- Ease of use - You pre-configure it for yourself, afterall! Everything is at your mouse cursor, therefore you don't need to go through the boring setups of other bots, and instead pre-configure everything for yourself! There's no need to rely on anybody else, as you, yourself, can be the master of your bot!
-- It's plenty of fun - You couldn't believe how easy it is to kill time making Discord bots - especially without code! It's something that gets your brain's cogwheels spinnin' and starts up your creativity - The sky is the limit!
-- It's your creation and it's not going anywhere - whatever you create could make for a great showcase subject!
+**Upcoming Features:**
 
-Well, what is it not? First off, it's not a *completed* application (yet) - but it's got plenty to offer - everything for free!
-To continue that, it's not anything special - it's just a simple webapp, but trust me when I say it's performance is superior!
+- 🔧 **Top-notch Optimization**: We will continually optimize SBM Ultra to improve the speed and efficiency of your bots. Our goal is to provide a seamless and smooth experience.
 
+- 💪 **Powerful Capabilities**: We'll keep expanding the capabilities of your bots with new commands, actions, and more. Your bots will become more versatile and powerful.
 
+- 🐛 **Swift Bug Fixes**: Our team is dedicated to swiftly addressing any issues that arise. We aim to maintain a stable platform and deliver the best user experience.
 
+- 🎉 **More Fun**: Stay tuned for fun and interactive features to liven up your Discord community. Games, polls, and more to add excitement to your servers.
 
-## Highlights & Features!
+- 🌐 **Language Support**: We're planning to introduce support for multiple languages, making SBM Ultra accessible to a wider audience.
 
-### Customizable Colors 🎨
-![Studio_Bot_Maker_JhmqOPBwGS](https://github.com/RatWasHere/Studio-Bot-Maker/assets/100881234/efb25ed7-3e89-4420-9d36-1781b435f02e)
-
-### Discord Message Components Integration 💪
-![image](https://github.com/RatWasHere/Studio-Bot-Maker/assets/100881234/3bb28b7c-2244-45db-9b92-f0e9bbde1d60)
-
-### Quickly Fix Errors!
-![Studio_Bot_Maker_SXysIwNT8v](https://github.com/RatWasHere/Studio-Bot-Maker/assets/100881234/20dd5fe0-35fe-4a19-a1ee-21d049f26479)
-<a href="https://www.producthunt.com/posts/studio-bot-maker?utm_source=badge-featured&utm_medium=badge&utm_souce=badge-studio&#0045;bot&#0045;maker" target="_blank"><img src="https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=396865&theme=dark" alt="Studio&#0032;Bot&#0032;Maker - A&#0032;no&#0032;code&#0032;Discord&#0032;bot&#0032;maker | Product Hunt" style="width: 250px; height: 54px;" width="250" height="54"/></a>
+SBM Ultra makes Discord bot development fun, easy, and efficient. With upcoming features and constant improvements, the platform will become even more robust and functional. **Create your own Discord bots with SBM Ultra** and take your server experience to the next level!
